@@ -7,8 +7,16 @@ Ideally, we would use the GitHub Wiki system, but it is only available for **pub
 
 Until the project is either open-sourced or upgraded to a paid tier, this submodule serves as a alternative solution for internal documentation purposes.
 
+---
+
 ## Table of Contents
-Databases:
-- [CRUD Documentation](pages/CRUD.md)
-  - [Auth](pages/CRUD.md#Auth)
-  - [Products](pages/CRUD.md#Products)
+### Architecture
+- [CRUD Documentation](pages/architecture/CRUD.md)
+  - [Auth](pages/architecture/CRUD.md#Auth)
+  - [Products](pages/architecture/CRUD.md#Products)
+
+### Infrastructure
+- [CI/CD Overview](pages/infrastructure/CICD.md)
+
+### Development Tools
+- [Firebase Emulator](pages/dev-tools/FirebaseEmulator.md)
